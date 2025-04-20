@@ -24,9 +24,11 @@ The designs were created to the following widths:
 
 ### Red
 
-- **Red 400**: `hsl(3, 86%, 64%)`
+- **Red 400**: `hsl(3, 86%, 64%)` #f25c54
 - **Red 500**: `hsl(3, 71%, 56%)`
+#de473f
 - **Red 700**: `hsl(3, 77%, 44%)`
+#c7221a
 
 ### Gradient
 
